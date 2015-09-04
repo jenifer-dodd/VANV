@@ -1,15 +1,15 @@
-= On Exactitude in Science
+= Network analysis with Neo4j
 :neo4j-version: 2.1.0
 :author: Suellen Stringer-Hye
 :twitter: @suellenshye
-:tags: domain:education, use-case:literary analysis
+:tags: domain:education, use-case:network analysis
 
 
 
 == Goals
 Neo4j is a NOSQL database that allows for coding relationships between things. Cypher is the query language that allows us to create the nodes and relationships and between things and then ask questions of it. In this class we will create a small graph of the Borges story "On Exactitude in Science" noting the complexity of the story and illustrating some of the patterns that allowed for this complexity.
 
-== Graphing for textual analysis
+== Network Analysis using Neo4j
 
 https://gist.github.com/suellenstringer-hye/3775cf12f473866affcf
 
@@ -18,7 +18,7 @@ https://gist.github.com/suellenstringer-hye/3775cf12f473866affcf
 
 * Set up a [Github account] (https://github.com/)
 * Navigate to  [GraphGist](http://gist.neo4j.org/)
-* Read Borges "On Exactitude in Science"
+
 
 == Class Assignment
 
