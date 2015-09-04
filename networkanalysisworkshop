@@ -20,7 +20,7 @@ https://gist.github.com/suellenstringer-hye/3775cf12f473866affcf
 * Navigate to  [GraphGist](http://gist.neo4j.org/)
 
 
-== Class Assignment
+
 
 
 //graph
@@ -47,7 +47,9 @@ CREATE
 
 
 ----
+== Class Assignment
 
+Create a graph of relationships that you find interesting. Working in groups, you will create a hand drawn data model and then encode it as a graph gist. 
 
 == Learning More about Graphing
 
