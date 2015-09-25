@@ -15,20 +15,20 @@
 ----
 CREATE
 //People
-(a:Person{name:'a'}),
-(b:Person{name:'b'}),
-(c:Person{name:'c'}),
+(a:Person{name:'Donald Trump'}),
+(b:Person{name:'Barack Obama'}),
+(c:Person{name:'Hilary Clinton'}),
 
 //Places
-(d:Location{name:'d'}),
-(e:Location{name:'e'}),
+(d:Location{name:'New York'}),
+(e:Location{name:'Washington DC'}),
 
 //Relationships
-(a)-[:R]->(b),
-(b)-[:S]->(c),
-(b)-[:T]->(d),
-(c)-[:U]->(a),
-(e)-[:Z]->(b)
+(a)-[:OPPOSES]->(b),
+(c)-[:OPPOSES]->(a),
+(a)-[:LIVES_IN]->(d),
+(b)-[:LIVES_IN]->(e)
+
 
 
 ----
