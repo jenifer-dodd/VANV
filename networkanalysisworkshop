@@ -30,7 +30,7 @@ CREATE
 (c)-[:OPPOSES]->(a),
 (a)-[:LIVES_IN]->(d),
 (b)-[:LIVES_IN]->(e),
-(d)-[:LIVES_IN]->(g)
+(d)-[LIVES_IN]->(g)
 
 
 
