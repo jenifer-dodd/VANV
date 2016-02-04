@@ -14,10 +14,10 @@
 ----
 CREATE
 //People
-(Bartel:Person{name:'Albert Bartel'}),
-(Baumgart:Person{name:'Carole Baumgart'}),
-(Beck:Person{name:'George Beck'}),
-(Bertsche:Person{name:'Evelyn Bertsche'}),
+(Bartel:Person{name:'Albert Bartel', gender:'male'}),
+(Baumgart:Person{name:'Carole Baumgart', gender:'female'}),
+(Beck:Person{name:'George Beck', gender:'male'}),
+(Bertsche:Person{name:'Evelyn Bertsche', gender:'female'}),
 
 //Places
 (Beloit:Location{name:'Beloit College'}),
