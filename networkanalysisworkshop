@@ -18,10 +18,12 @@ CREATE
 (a:Person{name:'Donald Trump'}),
 (b:Person{name:'Barack Obama'}),
 (c:Person{name:'Hilary Clinton'}),
+(d:Person{name:'Bernie Sanders'}),
 
 //Places
-(d:Location{name:'New York'}),
-(e:Location{name:'Washington DC'}),
+(e:Location{name:'New York'}),
+(f:Location{name:'Washington DC'}),
+(g:Location{name:'Boston'}),
 
 //Relationships
 (a)-[:OPPOSES]->(b),
