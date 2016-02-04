@@ -21,7 +21,7 @@ CREATE
 (d:Person{name:'Bernie Sanders'}),
 
 //Places
-(e:Location{name:'New York'),
+(e:Location{name:'New York'}),
 (f:Location{name:'Washington DC'}),
 (g:Location{name:'Boston'}),
 
