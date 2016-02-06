@@ -220,7 +220,7 @@ CREATE
 (nixon)-[:WENT_TO]->(ucsantacruz),
 (oken)-[:WENT_TO]->(goddard),
 (osullivan)-[:WENT_TO]->(ucsantacruz),
-(randall)-[:WENT_TO]->(bethell),
+(randall)-[:WENT_TO]->(bethel),
 (rasmussen)-[:WENT_TO]->(beloit),
 (regier)-[:WENT_TO]->(bethel),
 (reimer)-[:WENT_TO]->(bethel),
