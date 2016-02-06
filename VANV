@@ -203,7 +203,7 @@ CREATE
 (howard)-[:WENT_TO]->(bluffton),
 (jantz)-[:WENT_TO]->(bethel),
 (jereb)-[:WENT_TO]->(ucdavis),
-(juddw)-[:WENT_TO]->(bridewater),
+(juddw)-[:WENT_TO]->(bridgewater),
 (juddp)-[:WENT_TO]->(juniata),
 (kearney)-[:WENT_TO]->(ucsantacruz),
 (kennedy)-[:WENT_TO]->(keuka),
