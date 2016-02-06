@@ -166,6 +166,7 @@ CREATE
 (carmel)-[:WENT_TO]->(goddard),
 (carterc)-[:SENT_BY]->(bvs),
 (chapman)-[:WENT_TO]->(ucsantacruz),
+(chappe)-[:WENT_TO]->(goddard),
 (bernadette)-[:WENT_TO]->(chico),
 (coe)-[:WENT_TO]->(ucdavis),
 (collyer)-[:WENT_TO]->(keuka),
