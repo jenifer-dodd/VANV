@@ -30,7 +30,7 @@ CREATE
 (carterc:Person{name:'Clyde Carter'}),
 (carterk:Person{name:'Kermon Carter'}),
 (chapman:Person{name:'Harlan Chapman’ }),	
-(chappe:Person{name:'Marc Steven Chappe’ }),	
+(chappe:Person{name:'Marc Steven Chappe’}),	
 (cirelli:Person{name:'Dotty Cirelli’ }),	
 (bernadette:Person{name:'Ann Bernadette Coe’ }),	
 (coe:Person{name:'John Coe’ }),	
