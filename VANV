@@ -124,9 +124,7 @@ CREATE
 (weilerj:Person{name:'James Weiler'}),
 (wiensd:Person{name:'Darrell Wiens'}),
 (wiensa:Person{name:'A Wayne Wiens'}),
-(williams:Person{name:'Linda Williams'})
-
-
+(williams:Person{name:'Linda Williams'}),
 
 
 //Places
