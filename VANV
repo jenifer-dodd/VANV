@@ -62,7 +62,8 @@ CREATE
 (goshen:University{name:'Goshen College'}),
 (juniata:University{name:'Juniata College'}),
 (kalamazoo:University{name:'Kalamazoo'}),
-(keuka:University{name:'Keuka College'})
+(keuka:University{name:'Keuka College'}),
+(manchester:University{name:'Manchester College'}),
 (ucdavis:University{name:'University of California Davis'}),
 (ucsantacruz:University{name:'University of California Santa Cruz'}),
 (bvs:Organization{name:'Brethren Voluntary Service'}),
