@@ -66,6 +66,7 @@ CREATE
 (kalamazoo:University{name:'Kalamazoo'}),
 (keuka:University{name:'Keuka College'}),
 (manchester:University{name:'Manchester College'}),
+(ohio:University{name:'Ohio State'}),
 (ucdavis:University{name:'University of California Davis'}),
 (ucsantacruz:University{name:'University of California Santa Cruz'}),
 (bvs:Organization{name:'Brethren Voluntary Service'}),
@@ -83,7 +84,23 @@ CREATE
 (bohn)-[:SENT_BY]->(bvs),
 (brown)-[:WENT_TO]->(ucdavis),
 (bryant)-[:WENT_TO]->(manchester),
-(bullen)-[:WENT_TO]->(keuka)
+(bullen)-[:WENT_TO]->(keuka),
+(capitulo)-[:WENT_TO]->(keuka),
+(carmel)-[:WENT_TO]->(goddard),
+(carterc)-[:SENT_BY]->(bvs),
+(chapman)-[:WENT_TO]->(ucsantacruz),
+(bernadette)-[:WENT_TO]->(chico),
+(coe)-[:WENT_TO]->(ucdavis),
+(collyer)-[:WENT_TO]->(keuka),
+(colwell)-[:WENT_TO]->(beloit),
+(conrad)-[:SENT_BY]->(mcc),
+(cope)-[:SENT_BY]->(mcc),
+(czech)-[:WENT_TO]->(beloit),
+(dalessandro)-[:WENT_TO]->(kalamazoo),
+(detrick)-[:SENT_BY]->(bvs),
+(diebel)-[:WENT_TO]->(ohio),
+(dybikowski)-[:SENT_BY]->(mcc),
+(feinstein)-[:WENT_TO]->(beloit)
 
 
 
