@@ -176,7 +176,27 @@ CREATE
 (detrick)-[:SENT_BY]->(bvs),
 (diebel)-[:WENT_TO]->(ohio),
 (dybikowski)-[:SENT_BY]->(mcc),
-(feinstein)-[:WENT_TO]->(beloit)
+(feinstein)-[:WENT_TO]->(beloit),
+(glover)-[:SENT_BY]->(bvs),
+(goodl)-[:SENT_BY]->(bvs),
+(goodc)-[:SENT_BY]->(bvs),
+(hatchett)-[:SENT_BY]->(mcc),
+(herr)-[:SENT_BY]->(mcc),
+(horst)-[:SENT_BY]->(mcc),
+(king)-[:SENT_BY]->(mcc),
+(lehman)-[:SENT_BY]->(mcc),
+(martin)-[:SENT_BY]->(mcc),
+(moore)-[:SENT_BY]->(bvs),
+(payne)-[:SENT_BY]->(mcc),
+(peters)-[:SENT_BY]->(mcc),
+(sarvis)-[:SENT_BY]->(bvs),
+(schrag)-[:SENT_BY]->(mcc),
+(schroeder)-[:SENT_BY]->(mcc),
+(schwenk)-[:SENT_BY]->(mcc),
+(wedelw)-[:SENT_BY]->(mcc),
+(weilere)-[:SENT_BY]->(mcc),
+(weilerj)-[:SENT_BY]->(mcc)
+
 
 
 
