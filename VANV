@@ -51,12 +51,23 @@ CREATE
 
 
 //Places
+(antioch:Location{name:'Antioch'}),
 (beloit:Location{name:'Beloit College'}),
-(goshen:Location{name:'Goshen College'}),
-(juniata:Location{name:'Juniata College'}),
+(bethel:University{name:'Bethel University'}),
+(bennington:University{name:'Bennington College'}),
+(bluffton:University{name:'Bluffton College'}),
+(bridgewater:University{name:'Bridgewater College'}),
+(chico:University{name:'Chico State University'}),
+(goddard:University{name:'Goddard College'}),
+(goshen:University{name:'Goshen College'}),
+(juniata:University{name:'Juniata College'}),
+(kalamazoo:University{name:'Kalamazoo'}),
+(keuka:University{name:'Keuka College'})
+(manchester:University{name:'Manchester College'}),
+(ucdavis:University{name:'University of California Davis'}),
+(ucsantacruz:University{name:'University of California Santa Cruz'}),
+(bvs:Organization{name:'Brethren Voluntary Service'}),
 (mcc:Organization{name:'Mennonite Central Committee'}),
-(goddard:Location{name:'Goddard College'}),
-(bethel:Location{name:'Bethel University'}),
 
 //Relationships
 (bartel)-[:SENT_BY]->(mcc),
