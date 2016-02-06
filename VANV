@@ -233,7 +233,7 @@ CREATE
 (taylor)-[:WENT_TO]->(bennington),
 (wamplers)-[:WENT_TO]->(bridgewater),
 (wiensd)-[:WENT_TO]->(bethel),
-(weinsa)-[:TAUGHT_AT]->(bethel),
+(wiensa)-[:TAUGHT_AT]->(bethel),
 (williams)-[:WENT_TO]->(bridgewater)
 
 
