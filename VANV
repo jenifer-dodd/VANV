@@ -18,6 +18,17 @@ CREATE
 (baumgart:Person{name:'Carole Baumgart', gender:'female'}),
 (beck:Person{name:'George Beck', gender:'male'}),
 (bertsche:Person{name:'Evelyn Bertsche', gender:'female'}),
+(blacklow:Person{name:'Neil Blacklow'}),
+(blakeslee:Person{name:'Tim Blakeslee'}),
+(blenkush:Person{name:'Mary Blenkush'}),
+(bohn:Person{name:'Joyce Bohn'}),
+(brown:Person{name:'Candy'}),
+(bryant:Person{name:'Barbara Bryant'}),
+(bullen:Person{name:'Christine Bullen'}),
+(capitulo:Person{name:'Katie Capitulo'}),
+(carmel:Person{name:'G. Steven Carmel'}),
+(carterc:Person{name:'Clyde Carter'}),
+(carterk:Person{name:'Kermon Carter'}),
 
 //Places
 (beloit:Location{name:'Beloit College'}),
