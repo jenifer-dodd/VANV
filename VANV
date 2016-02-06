@@ -17,6 +17,7 @@ CREATE
 (bartel:Person{name:'Albert Bartel', gender:'male'}),
 (baumgart:Person{name:'Carole Baumgart', gender:'female'}),
 (beck:Person{name:'George Beck', gender:'male'}),
+(bertrand:Person{name:'Helen Bertrand', gender:'female'}),
 (bertsche:Person{name:'Evelyn Bertsche', gender:'female'}),
 (blacklow:Person{name:'Neil Blacklow'}),
 (blakeslee:Person{name:'Tim Blakeslee'}),
@@ -51,6 +52,7 @@ CREATE
 
 
 //Places
+(american:University{name:'American University'}),
 (antioch:University{name:'Antioch'}),
 (beloit:University{name:'Beloit College'}),
 (bethel:University{name:'Bethel University'}),
@@ -72,8 +74,17 @@ CREATE
 //Relationships
 (bartel)-[:SENT_BY]->(mcc),
 (baumgart)-[:WENT_TO]->(goddard),
+(bertrand)-[:SENT_BY]->(mcc),
 (bertsche)-[:WENT_TO]->(bethel),
-(bertsche)-[:SENT_BY]->(mcc)
+(bertsche)-[:SENT_BY]->(mcc),
+(blakeslee)-[:WENT_TO]->(ucdavis),
+(blenkush)-[:WENT_TO]->(ucdavis),
+(bohn)-[:WENT_TO]->(american),
+(bohn)-[:SENT_BY]->(bvs),
+(brown)-[:WENT_TO]->(ucdavis),
+(bryant)-[:WENT_TO]->(manchester),
+(bullen)-[:WENT_TO]->(keuka)
+
 
 
 
