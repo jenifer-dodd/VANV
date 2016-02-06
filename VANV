@@ -51,8 +51,8 @@ CREATE
 
 
 //Places
-(antioch:Location{name:'Antioch'}),
-(beloit:Location{name:'Beloit College'}),
+(antioch:University{name:'Antioch'}),
+(beloit:University{name:'Beloit College'}),
 (bethel:University{name:'Bethel University'}),
 (bennington:University{name:'Bennington College'}),
 (bluffton:University{name:'Bluffton College'}),
